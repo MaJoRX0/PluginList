@@ -1,0 +1,29 @@
+{
+  "Author": "Twinki Toes",
+  "Name": "Plugin List",
+  "InternalName": "PluginList",
+  "AssemblyVersion": "1.0.3.2",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "pluginlist",
+    "list",
+    "bar",
+    "hotbar",
+    "toolbar",
+    "plugin",
+    "goats"
+  ],
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Side Bar for all plugins/custom commands",
+  "AcceptsFeedback": true,
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
+  "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
+  "ChangeLog":"Fixed drag and drop"
+}
